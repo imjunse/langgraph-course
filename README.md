@@ -1,5 +1,7 @@
 # LangGraph AI 에이전트 개발 강의 정리
 
+> **https://imjunse.github.io/langgraph-course/**
+
 LangGraph로 AI 에이전트를 개발하는 9시간+ 강의의 핵심 내용을 정리한 인터랙티브 웹페이지입니다.
 
 ## 내용
